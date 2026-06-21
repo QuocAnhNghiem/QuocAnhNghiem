@@ -260,8 +260,8 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 <a href="https://github.com/QuocAnhNghiem">
   <img src="https://img.shields.io/badge/GitHub-QuocAnhNghiem-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Add%20Later-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+<a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-nghi%C3%AAm-068270290">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/CV-Add%20Later-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" />
@@ -280,7 +280,7 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
   <img src="https://skillicons.dev/icons?i=github" height="42" />
 </a>
 &nbsp;&nbsp;
-<a href="#">
+<a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-nghi%C3%AAm-068270290">
   <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
 </a>
 
@@ -290,7 +290,7 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 
 ## 📝 Information to Add Later
 
-- [ ] LinkedIn profile URL
+- [x] LinkedIn profile URL
 - [ ] CV link
 - [ ] Portfolio website link
 - [ ] Certificate images in `images/certificates/`
