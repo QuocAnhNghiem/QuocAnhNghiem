@@ -192,19 +192,19 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 </table>
 
 <img src="https://img.shields.io/badge/Scholarship-3%20Years%20Consecutive-F97316?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Certificate-DEVOPSEDU-00D9FF?style=for-the-badge&labelColor=0D1117" />
+<a href="images/certificate.jpg">
+  <img src="https://img.shields.io/badge/Certificate-DEVOPSEDU-00D9FF?style=for-the-badge&labelColor=0D1117" />
+</a>
+
+<br /><br />
+
+<a href="images/certificate.jpg">
+  <img src="images/certificate.jpg" alt="DEVOPSEDU Certificate" width="70%" />
+</a>
+
+<p><i>Click the certificate image to view it in full size.</i></p>
 
 </div>
-
-<!--
-Certificate image area:
-Put certificate images in images/certificates/ and uncomment examples below.
-
-<div align="center">
-  <img src="images/certificates/devopsedu.png" width="45%" />
-  <img src="images/certificates/scholarship.png" width="45%" />
-</div>
--->
 
 ---
 
