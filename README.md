@@ -263,8 +263,8 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 <a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-nghi%C3%AAm-068270290">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/CV-Add%20Later-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" />
+<a href="assets/cv/Nghiem_Trong_Quoc_Anh_DevOps_Intern_CV.pdf">
+  <img src="https://img.shields.io/badge/CV-View%20Resume-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-Add%20Later-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" />
@@ -291,7 +291,7 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 ## 📝 Information to Add Later
 
 - [x] LinkedIn profile URL
-- [ ] CV link
+- [x] CV link
 - [ ] Portfolio website link
 - [ ] Certificate images in `images/certificates/`
 - [ ] More featured projects, ideally 2–3 projects with demo screenshots or architecture diagrams
