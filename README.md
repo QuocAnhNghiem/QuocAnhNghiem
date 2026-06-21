@@ -260,7 +260,7 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
 <a href="https://github.com/QuocAnhNghiem">
   <img src="https://img.shields.io/badge/GitHub-QuocAnhNghiem-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 </a>
-<a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-nghi%C3%AAm-068270290">
+<a href="https://www.linkedin.com/in/quoc-anh-nghiem-068270290">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
 </a>
 <a href="assets/cv/Nghiem_Trong_Quoc_Anh_DevOps_Intern_CV.pdf">
@@ -280,7 +280,7 @@ A production-like AWS/EKS portfolio project for a MERN GPA/student management ap
   <img src="https://skillicons.dev/icons?i=github" height="42" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/qu%E1%BB%91c-anh-nghi%C3%AAm-068270290">
+<a href="https://www.linkedin.com/in/quoc-anh-nghiem-068270290">
   <img src="https://skillicons.dev/icons?i=linkedin" height="42" />
 </a>
 
