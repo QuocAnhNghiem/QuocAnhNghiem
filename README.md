@@ -109,34 +109,68 @@ I am a <b>3rd-year Information Technology student at USTH</b>, aiming to become 
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/QuocAnhNghiem/CICD-mern-monitoring">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhNghiem&repo=CICD-mern-monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=F97316" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhNghiem&repo=CICD-mern-monitoring&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=F97316" />
 </a>
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-<img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Monitoring-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<a href="https://github.com/QuocAnhNghiem/gpa-management">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=QuocAnhNghiem&repo=gpa-management&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB&icon_color=F97316" />
+</a>
 
 </div>
 
-### MERN CI/CD Pipeline with Monitoring
+### 1. MERN CI/CD Pipeline with Monitoring
 
-A DevOps-focused project for building, deploying, and monitoring a MERN application with a practical CI/CD workflow.
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" />
+</p>
 
-- Built a CI/CD workflow with <b>Jenkins</b>
-- Used <b>Harbor</b> as a container image registry
-- Practiced deployment with <b>Docker Swarm</b>
-- Added monitoring/observability direction with <b>Grafana, Prometheus, and logging tools</b>
-- Focused on production-like workflow: build → push image → deploy → monitor
+A production-like DevOps project for deploying a full-stack MERN application on Google Cloud Platform with Jenkins, Harbor, Docker Swarm, security scanning, and monitoring.
 
-> More DevOps and Backend projects are being built step by step — focusing on automation, cloud deployment, monitoring, and reliability.
+- Designed separate <b>staging</b> and <b>production</b> Jenkins pipelines using Pipeline as Code
+- Containerized React frontend and Node.js backend with optimized Dockerfiles and non-root runtime direction
+- Used <b>Harbor</b> as a private container registry with versioned images
+- Deployed with <b>Docker Swarm</b>, rolling updates, health checks, and rollback direction
+- Integrated <b>Trivy</b> vulnerability scanning before deployment
+- Added observability with <b>Prometheus, Grafana, Node Exporter, and cAdvisor</b>
+- Documented real troubleshooting notes and production-style deployment flow
+
+### 2. GPA Management — AWS EKS Deployment Portfolio
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
+
+A production-like AWS/EKS portfolio project for a MERN GPA/student management application. The focus is infrastructure, deployment, operations, monitoring, rollback, and cost awareness.
+
+- Deployed frontend through <b>private S3 buckets</b>, <b>CloudFront</b>, <b>Route 53</b>, and ACM HTTPS certificates
+- Ran backend workloads on <b>Amazon EKS</b> with separate <b>staging</b> and <b>production</b> namespaces
+- Wrote Kubernetes manifests for Deployment, Service, ConfigMap, Secret examples, HPA, PDB, Gateway, and HTTPRoute
+- Used <b>ECR</b> for backend images and Jenkins for CI/CD deployment automation
+- Designed API traffic path with CloudFront → ALB → EKS Gateway API → Kubernetes Service → backend pods
+- Integrated <b>CloudWatch Logs, Container Insights, dashboards</b>, and operational runbooks
+- Practiced AWS security/operations concepts: IAM, Pod Identity, WAF, private buckets, rollback, and cost inventory
+
+### Other Projects
+
+| Project | Focus | Highlights |
+|---|---|---|
+| [project-machine-learning](https://github.com/QuocAnhNghiem/project-machine-learning) | Machine Learning | EPL match prediction with Logistic Regression, Min-Max scaling, Gradient Descent, threshold sweep, hyperparameter tuning, Docker Compose, report and slides |
+| [cicd-nodejs-k8s](https://github.com/QuocAnhNghiem/cicd-nodejs-k8s) | CI/CD + Kubernetes Practice | Node.js app with Dockerfile, Jenkinsfile, Kubernetes manifests for backend, MongoDB, ConfigMap, Secret, Service, Deployment, and automated test setup |
+| [stqa-manual-testing-stqa_group_15](https://github.com/QuocAnhNghiem/stqa-manual-testing-stqa_group_15) | Manual Testing / STQA | Library system testing project with SRS/BRD analysis, test cases, test execution, bug reports, screenshots, and summary documentation |
 
 ---
 
